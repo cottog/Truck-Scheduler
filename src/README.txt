@@ -3,7 +3,7 @@ This is my project. This is a system that schedules trucks to travel a specific 
 This works with CLIPS 6.24 on windows for sure. I am unsure about its compatibility with any other environment.
 
 To execute the program, just load the three .clp files, preferably in this order:
-	1)newfacts1.clp OR newfacts2.clop OR newfacts3.clp, for each of the datasets
+	1)newfacts1.clp OR newfacts2.clp OR newfacts3.clp, for each of the datasets
 	2)pathrules.clp
 	3)controlrules.clp
 
